@@ -32,7 +32,7 @@ short dni list /////<br>
   i oftenly swear a lot, I'm just warning you incase you are not comfortable around a person that swears a lot.
   
 Don't be scared to interact btw, don't let my DNI list affect you.<br>
-Simply just be who you are, I won't judge.
+Simply just be who you are, I won't judge.<br>
 </p>
 
 
@@ -49,12 +49,12 @@ Simply just be who you are, I won't judge.
 
 <!-- Likes Section -->
 <p align="center">
-I like…<br>
+I like…//////<br>
 - Sweets <br>
 - Friends <br>
 - Reusing <br>
-- Swearing 
--drawing
+- Swearing <br>
+-drawing <br>
 </p>
 
 <!-- GIF Banner -->
@@ -65,9 +65,9 @@ I like…<br>
 <!-- Bio -->
 <p align="center">
   take note :
-I made this account for Ponytown mostly.
-I don't like people forcing me
-I swear a lot so yh but I am nice trust..!
+I made this account for Ponytown mostly. <br>
+I don't like people forcing me <br>
+I swear a lot so yh but I am nice trust..! <br>
 </p>
 
 
