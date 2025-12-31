@@ -79,6 +79,12 @@ I swear a lot so yh but I am nice trust..! <br>
 
 <!-- Bio -->
 <p align="center">
-I'm just a person that is a bigback, don't mind me.
-</p>
+I'm just a person that is a bigback, don't mind me.<br>
+
+<!-- PonyTown status:-->
+<p align="center">
+•(online) - i dont really use that but I guess it means im online <br>
+•(🌙/away) - away, afk, or offtab.. probably doing something important, mostly recycling, doing chores, yh<br>
+• (⛔/busy) - what i normally use, it sometimes means im online like yeah, or maybe afk.<br>
+• (Looking for chat/roleplay) - I don't use it gulps...<br>
 
