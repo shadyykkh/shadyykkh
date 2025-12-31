@@ -70,3 +70,16 @@ I don't like people forcing me
 I swear a lot so yh but I am nice trust..!
 
 </p>
+
+
+
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5mMGs1ODVwa2E4ZWZ6dGUzZW9panlwZWowZHh1djRibGl5MWd2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N8pMaJlXHgZ2/giphy.gif" width="1200%">
+</p>
+
+<!-- Bio -->
+<p align="center">
+I'm just a person that is a bigback, don't mind me.
+</p>
+
