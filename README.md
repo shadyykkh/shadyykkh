@@ -71,7 +71,6 @@ I swear a lot so yh but I am nice trust..! <br>
 </p>
 
 
-
 <!-- GIF Banner -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5mMGs1ODVwa2E4ZWZ6dGUzZW9panlwZWowZHh1djRibGl5MWd2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N8pMaJlXHgZ2/giphy.gif" width="1200%">
@@ -80,6 +79,8 @@ I swear a lot so yh but I am nice trust..! <br>
 <!-- Bio -->
 <p align="center">
 I'm just a person that is a bigback, don't mind me.<br>
+
+src="https://giphy.com/gifs/anime-plunger-gachiakuta-WjT2zHNW2nJ4OQSMjo" width="1200">
 
 <!-- PonyTown status:-->
 <p align="center">
