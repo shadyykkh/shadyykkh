@@ -49,7 +49,7 @@ Simply just be who you are, I won't judge.<br>
 
 <!-- Likes Section -->
 <p align="center">
-I like…//////<br>
+I like… /////<br>
 - Sweets <br>
 - Friends <br>
 - Reusing <br>
