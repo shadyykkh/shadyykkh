@@ -18,7 +18,7 @@ I'm a minor (currently sixteen).
 </p>
 
 <p align="center">
-small dni's /////<br>
+short dni list /////<br>
 1. DNI people who're too insecure (I support insecure people, but those who can't get jokes… I can explain)<br>
 2. PLEASE don't copy my skins, I don't put "DNC" on my photo<br>
 3. Racist people<br>
