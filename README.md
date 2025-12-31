@@ -36,7 +36,7 @@ Simply just be who you are, I won't judge.
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e9/30/d5/e930d501281f8214e38c9963df4aa078.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/e9/30/d5/e930d501281f8214e38c9963df4aa078.jpg" width="1200%">
 </p>
 
 <!-- Profile Photo -->
