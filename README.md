@@ -9,6 +9,8 @@
 －－－－ don’t mind me, just a Rudo person here －－－－
   
 </p>
+C+H , INT, W2I,  IDMMM!
+</p> 
 
 <p align="center">
 call me rudo / rud / khakie cause yh<br>
@@ -52,5 +54,19 @@ I like…<br>
 - Friends <br>
 - Reusing <br>
 - Swearing 
+-drawing
 </p>
 
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1hbjloNXB6ZTU1dTJmanRsY3VhY2w4eDU4NGdhYWoxNDRjYW5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4WFqcwtRt9aEckz7Z/giphy.gif" width="1200%">
+</p>
+
+<!-- Bio -->
+<p align="center">
+  take note :
+I made this account for Ponytown mostly.
+I don't like people forcing me
+I swear a lot so yh but I am nice trust..!
+
+</p>
