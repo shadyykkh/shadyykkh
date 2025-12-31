@@ -80,7 +80,7 @@ I swear a lot so yh but I am nice trust..! <br>
 <p align="center">
 I'm just a person that is a bigback, don't mind me.<br>
 
-<! -- GIF Banner --<
+<! -- GIF Banner -->
 <p align="center">
  src="https://giphy.com/gifs/anime-plunger-gachiakuta-WjT2zHNW2nJ4OQSMjo" width="1200%">
 </p>
