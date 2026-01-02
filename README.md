@@ -46,7 +46,8 @@ Simply just be who you are, I won't judge.<br>
   <img src="https://i.pinimg.com/1200x/81/ea/6f/81ea6f981188825df0c621f15c79db30.jpg" width="200">
 </p>
 
-visit my strawpage for more info btw ; rudrud.straw.page
+   <p align="center"> 
+       visit my strawpage for more info btw ; https://rudrud.straw.page
 </p>
 
 
