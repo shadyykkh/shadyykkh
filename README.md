@@ -46,6 +46,9 @@ Simply just be who you are, I won't judge.<br>
   <img src="https://i.pinimg.com/1200x/81/ea/6f/81ea6f981188825df0c621f15c79db30.jpg" width="200">
 </p>
 
+visit my strawpage for more info btw ; rudrud.straw.page
+</p>
+
 
 <!-- Likes Section -->
 <p align="center">
@@ -79,6 +82,7 @@ I swear a lot so yh but I am nice trust..! <br>
 <!-- Bio -->
 <p align="center">
 I'm just a person that is a bigback, don't mind me.<br>
+
 
 </p>
 
