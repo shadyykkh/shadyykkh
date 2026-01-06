@@ -20,7 +20,7 @@ I'm a minor (currently sixteen).
 <p align="center">
 short dni list /////<br>
 1. DNI people who're too insecure (I support insecure people, but those who can't get jokes… I can explain)<br>
-2. PLEASE don't copy my skins, I don't put "DNC" on my photo<br>
+2. PLEASE don't copy my skins, I don't put "DNC" on my profile<br>
 3. Racist people<br>
 4. Fakeagers<br>
 5. People who're a bit too jealous
