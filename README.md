@@ -43,7 +43,7 @@ Simply just be who you are, I won't judge.<br>
 
 <!-- Profile Photo -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/81/ea/6f/81ea6f981188825df0c621f15c79db30.jpg" width="200">
+  <img src="https://ph.pinterest.com/pin/61220876181733640/.jpg" width="200">
 </p>
 
    <p align="center"> 
