@@ -57,10 +57,7 @@ I like… /////<br>
 -drawing <br>
 </p>
 
-<!-- GIF Banner -->
-<p align="center">
-  <img src=<img src="https://i.pinimg.com/originals/7b/0d/60/7b0d6022cf6b29315355a43f172e1208.gif?raw=true" width="1200%">
-</p>
+
 
 <!-- Bio -->
 <p align="center">
@@ -72,10 +69,7 @@ I swear a lot so yh but I am nice trust..! <br>
 
 
 <!-- GIF Banner -->
-<p align="center">
-  <img src=<img src="(https://i.pinimg.com/originals/88/59/28/885928a8ddab67ceae73e4229bfa75a3.gif)" width="1200
-</p>>
-</p>
+
 
 <!-- Bio -->
 <p align="center">
