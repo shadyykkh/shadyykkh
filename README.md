@@ -2,25 +2,25 @@
 
                       
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/81/ea/6f/81ea6f981188825df0c621f15c79db30.jpg" width="1200">
+  <img src="https://i.pinimg.com/736x/60/5e/73/605e732b3581045e83a54a2c60a62e3e.jpg" width="100%">
 </p>
 
 <p align="center">
-－－－－ don’t mind me, just a Rudo person here －－－－
+－－－－ yahoo! oikawa tooru kinnie lmao...! －－－－
   
 </p>
 C+H , INT, W2I,  IDMMM!
 </p> 
 
 <p align="center">
-call me rudo / rud / khakie cause yh<br>
-I'm a minor (currently sixteen).
+call me tooru or oikawa, cause that's what my friends normally call me, heh shout out to them! they are so cool trust me!!!! <br>
+I'm a minor, okay? fifteen mhm? .
 </p>
 
 <p align="center">
-short dni list /////<br>
-1. DNI people who're too insecure (I support insecure people, but those who can't get jokes… I can explain)<br>
-2. PLEASE don't copy my skins, I don't put "DNC" on my profile<br>
+short dni list ~ /////<br>
+1. DNI people who're too insecure (I support insecure people, but those who can't get jokes… I can explain properly but please dont be THAT much dramatic with it, well its okay if you're being dramatic as a joke, i do that too but seriously dramatic? nah...)<br>
+2. PLEASE don't copy my skins, I normally don't put "DNC" on my profile<br>
 3. Racist people<br>
 4. Fakeagers<br>
 5. People who're a bit too jealous
@@ -29,7 +29,7 @@ short dni list /////<br>
 
 <p align="center">
 
-  i oftenly swear a lot, I'm just warning you incase you are not comfortable around a person that swears a lot.
+  i swear a lot, I'm just warning you incase you are not comfortable around a person that swears a lot!!!!
   
 Don't be scared to interact btw, don't let my DNI list affect you.<br>
 Simply just be who you are, I won't judge.<br>
@@ -38,7 +38,7 @@ Simply just be who you are, I won't judge.<br>
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e9/30/d5/e930d501281f8214e38c9963df4aa078.jpg" width="1200%">
+  <img src="https://i.pinimg.com/1200x/56/36/9d/56369dd4f7ad5ca87098b24bdffe2896.jpg" width="250">
 </p>
 
 <!-- Profile Photo -->
