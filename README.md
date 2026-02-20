@@ -41,13 +41,8 @@ Simply just be who you are, I won't judge.<br>
   <img src="https://i.pinimg.com/1200x/56/36/9d/56369dd4f7ad5ca87098b24bdffe2896.jpg" width="250">
 </p>
 
-<!-- Profile Photo -->
-<p align="center">
-  <img src="https://ph.pinterest.com/pin/61220876181733640/.jpg" width="200">
-</p>
-
    <p align="center"> 
-       visit my strawpage for more info btw ; https://rudrud.straw.page
+       visit my strawpage for more info btw ; 
 </p>
 
 
@@ -55,29 +50,31 @@ Simply just be who you are, I won't judge.<br>
 <p align="center">
 I like… /////<br>
 - Sweets <br>
+- milkbread
 - Friends <br>
-- Reusing <br>
-- Swearing <br>
+- food <br>
+- volleyball <br>
 -drawing <br>
 </p>
 
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1hbjloNXB6ZTU1dTJmanRsY3VhY2w4eDU4NGdhYWoxNDRjYW5xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4WFqcwtRt9aEckz7Z/giphy.gif" width="1200%">
+  <img src=<img src="https://i.pinimg.com/originals/7b/0d/60/7b0d6022cf6b29315355a43f172e1208.gif" width="1200%">
 </p>
 
 <!-- Bio -->
 <p align="center">
   take note :
 I made this account for Ponytown mostly. <br>
-I don't like people forcing me <br>
+smth smth mhm<br>
 I swear a lot so yh but I am nice trust..! <br>
 </p>
 
 
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5mMGs1ODVwa2E4ZWZ6dGUzZW9panlwZWowZHh1djRibGl5MWd2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N8pMaJlXHgZ2/giphy.gif" width="1200%">
+  <img src=<img src="https://i.pinimg.com/originals/88/59/28/885928a8ddab67ceae73e4229bfa75a3.gif" width="1200%">
+</p>>
 </p>
 
 <!-- Bio -->
@@ -90,7 +87,11 @@ I'm just a person that is a bigback, don't mind me.<br>
 <!-- PonyTown status:-->
 <p align="center">
 •(online) - i dont really use that but I guess it means im online <br>
-•(🌙/away) - away, afk, or offtab.. probably doing something important, mostly recycling, doing chores, yh<br>
+•(🌙/away) - away, afk, or offtab.. probably doing something important, mostly drawing, practicing volleyball, eating, others and doing chores, yh<br>
 • (⛔/busy) - what i normally use, it sometimes means im online like yeah, or maybe afk.<br>
 • (Looking for chat/roleplay) - I don't use it gulps...<br>
+
+</p>
+
+pony town purposes ! ^^^^
 
