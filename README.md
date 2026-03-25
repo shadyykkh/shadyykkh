@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-－－－－ yahoo! oikawa tooru kinnie lmao...! －－－－
+－－－－ yahoo! oikawa tooru kinnie (i sometimes turn into chuuya at random times lmao...! －－－－
   
 </p>
 C+H , INT, W2I,  IDMMM!
