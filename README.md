@@ -18,7 +18,7 @@ I'm a minor, okay? fifteen mhm? .
 </p>
 
 <p align="center">
-short dni list ~ /////<br>
+short dni list <br>
 1. DNI people who're too insecure (I support insecure people, but those who can't get jokes… I can explain properly but please dont be THAT much dramatic with it, well its okay if you're being dramatic as a joke, i do that too but seriously dramatic? nah...)<br>
 2. PLEASE don't copy my skins, I normally don't put "DNC" on my profile<br>
 3. Racist people<br>
