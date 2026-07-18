@@ -7,3 +7,4 @@
    <p align="center"> 
        visit my strawpage for some infos > v <
 
+[main prolly](https://github.com/vanifuyu) [other alt](https://github.com/kozu-kenm)
